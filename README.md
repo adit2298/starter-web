@@ -1,4 +1,4 @@
-# Starter Web Project
+ # Starter Web Project
 
 This repository is for showing how to use Git and Github together.
 
@@ -16,4 +16,4 @@ As stated above, the main purpose is to provide simple exampple for Git training
 
 ## How To Contribute
 
-Git Training
+Please fork this repository and then issue Pull Requests for review.
