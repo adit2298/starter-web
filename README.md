@@ -16,4 +16,4 @@ As stated above, the main purpose is to provide simple exampple for Git training
 
 ## How To Contribute
 
-Please fork this repository and then issue Pull Requests for review.
+Please fork this repository and then issue Pull Requests for review. All rights reserved.
